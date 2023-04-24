@@ -1,6 +1,15 @@
 https://learn.microsoft.com/en-us/users/mvtd/collections/77k4bnned84kn0
   - https://azure.microsoft.com/en-us/pricing/tco/calculator/
   - https://azure.microsoft.com/en-us/pricing/calculator/
-  - https:// aka.ms/ModApp/migration  for help in migration
-  - aka/ModApp/db-migration
-  - aka/ModApp/db-security
+  - https://aka.ms/ModApp/migration  for help in migration
+  - https://aka/ModApp/db-migration
+  - https://aka/ModApp/db-security
+  - https://aka/ModApp/sql-query-performance
+  - https://aka/ModApp/sql-tuning
+  - https://aka/ModApp/cosmos-query
+  - https://aka/ModApp/data-migration
+  - https://aka/ModApp/vm-migrate
+  - https://aka/ModApp/static-web-storage
+  - https://aka/ModApp/static-web-apps
+  - https://aka/ModApp/app-service
+  - RU -Request Unit
